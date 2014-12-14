@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello World! Just kidding!");
 		System.out.println("Add an extra line");
 		System.out.println("Okay, another line again for practice!");
-		System.out.println("Test again!")
+		System.out.println("Test again!");
 	}
 
 }
