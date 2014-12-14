@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Add an extra line");
 		System.out.println("Okay, another line again for practice!");
 		System.out.println("Test again! Now it is good!");
+		System.out.println("Yay this is so cool!");
 	}
 
 }
